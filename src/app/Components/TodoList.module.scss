@@ -1,0 +1,27 @@
+.container {
+    padding: 20px;
+}
+
+.input {
+    margin-right: 10px;
+    padding: 7px 8px;
+}
+
+.button {
+    background-color: rgba(4, 149, 21, 0.885);
+    margin-left: 50px;
+    color: white;
+    border: none;
+    padding: 6px;
+    margin: 17px 0;
+}
+
+.list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.todoItem {
+    display: flex;
+    align-items: center;
+}
